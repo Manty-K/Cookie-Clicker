@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-driver_path = '/Users/SAM/Development/chromedriver.exe'
+driver_path = 'path to chromedriver.exe'
 
 driver = webdriver.Chrome(executable_path=driver_path)
 
